@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from googleplaces import GooglePlaces, types, lang
+# See https://github.com/slimkrazy/python-google-places
 import csv
 
 YOUR_API_KEY = ''
@@ -32,7 +33,8 @@ with open('canadianCheeseDirectory.csv','rU') as csvinput:
 
         all = []
         row = next(reader)
-        row.append('Coordinates')
+        row.append('Lat')
+        row.append('Lng')
         all.append(row)
         previousname = ""
 
@@ -45,18 +47,19 @@ with open('canadianCheeseDirectory.csv','rU') as csvinput:
             
             province = row[5]
                 
-            # Run the geocoder only once per dairy, to minimize API calls    
+            # Run the geocoder only once per dairy, to minimize API calls
+            # If dairy name is the same as the previous one, reuse the coordinates    
             if previousname != dairyname:
                 previousname = dairyname
-                #coordinates = geocode(dairyname,province)
-                coordinates = "test"
-                row.append(coordinates)
-            else:    
-                # If dairy name is the same as the previous one, reuse the coordinates
-                row.append(coordinates)
+                coord_dict = geocode(dairyname,province)
+                coord_lat = coord_dict['lat']
+                coord_lng = coord_dict['lng']
+
+            row.append(coord_lat)
+            row.append(coord_lng)
             
             print dairyname
-            print coordinates
+            print coord_lat, coord_lng
             
             all.append(row)
 
