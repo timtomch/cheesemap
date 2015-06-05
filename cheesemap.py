@@ -26,7 +26,7 @@ def geocode(name, province):
 
 
 
-with open('canadianCheeseDirectory.csv','rU') as csvinput:
+with open('artisanal-cheese.csv','rU') as csvinput:
     with open('output.csv', 'w') as csvoutput:
         writer = csv.writer(csvoutput, lineterminator='\n')
         reader = csv.reader(csvinput)
@@ -51,11 +51,15 @@ with open('canadianCheeseDirectory.csv','rU') as csvinput:
             # If dairy name is the same as the previous one, reuse the coordinates    
             if previousname != dairyname:
                 previousname = dairyname
-                coord_dict = geocode(dairyname,province)
-                if coord_dict:
-                    coord_lat = coord_dict['lat']
-                    coord_lng = coord_dict['lng']
-                else:
+                try:
+                    coord_dict = geocode(dairyname,province)
+                    if coord_dict:
+                        coord_lat = coord_dict['lat']
+                        coord_lng = coord_dict['lng']
+                    else:
+                        coord_lat = ""
+                        coord_lng = ""
+                except:
                     coord_lat = ""
                     coord_lng = ""
 
