@@ -8,7 +8,7 @@ YOUR_API_KEY = ''
 google_places = GooglePlaces(YOUR_API_KEY)
 
 def geocode(name, province):
-    query = name + " " + province
+    query = name + " " + province + " Canada"
     query_result = google_places.text_search(query)
     
     result_places = query_result.places
@@ -52,8 +52,12 @@ with open('canadianCheeseDirectory.csv','rU') as csvinput:
             if previousname != dairyname:
                 previousname = dairyname
                 coord_dict = geocode(dairyname,province)
-                coord_lat = coord_dict['lat']
-                coord_lng = coord_dict['lng']
+                if coord_dict:
+                    coord_lat = coord_dict['lat']
+                    coord_lng = coord_dict['lng']
+                else:
+                    coord_lat = ""
+                    coord_lng = ""
 
             row.append(coord_lat)
             row.append(coord_lng)
