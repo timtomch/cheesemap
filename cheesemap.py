@@ -3,7 +3,7 @@
 # cheesemap.py
 # Maps Canadian artisanal cheese producers (csv from http://open.canada.ca/data/en/dataset/3c16cd48-3ac3-453f-8260-6f745181c83b)
 # using the Google Places API or the YellowAPI (Yellow Pages).
-# Hackathon-type project by Sara Alain (@archivalistic) and Thomas Guignard (@timtomch) for code4lib north 2015.
+# Hackathon-type project by Sara Allain (@archivalistic) and Thomas Guignard (@timtomch) for code4lib north 2015.
 # 
 
 from googleplaces import GooglePlaces, types, lang
