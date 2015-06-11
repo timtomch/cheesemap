@@ -23,6 +23,9 @@ import sys
 import time
 # To be able to sleep for 2 seconds between two YellowAPI calls, as per requirements.
 
+from fuzzywuzzy import fuzz
+# Library to do fuzzy text comparison - used to check if results found are what we are looking for (sort of)
+
 # Google Places API stuff
 GOOGLE_API_KEY = ''
 google_places = GooglePlaces(GOOGLE_API_KEY)
@@ -45,9 +48,9 @@ def geocode_google(name, province):
     #print result.place_id
 
 # YellowAPI stuff
-YELLOW_API_KEY = ''
-yellow_base_url = 'http://api.sandbox.yellowapi.com/FindBusiness/?what={what}&where={where}' +\
-                  '&pgLen=5&pg=1&dist=1&fmt=JSON&lang=en&UID=cheesemap&apikey={key}'
+YELLOW_API_KEY    = ''
+yellow_base_url   = 'http://api.sandbox.yellowapi.com/FindBusiness/?what={what}&where={where}' +\
+                    '&pgLen=5&pg=1&dist=1&fmt=JSON&lang=en&UID=cheesemap&apikey={key}'
 
 
 def geocode_yellow(name, province):
@@ -57,13 +60,32 @@ def geocode_yellow(name, province):
     response = requests.get(query)
     # Decode the returned JSON data
     decoded = response.json()
-    # Put longitude and latitude data into a dict matching the format returned by the Google API
-    # (so that either API can be used in run_geocode below)
-    geo_coords = {'lat': decoded['summary']['latitude'], 'lng': decoded['summary']['longitude']}
+    
     # Delay for 2 seconds to comply with API developer requirements
     time.sleep(2)
-    # Return the results
-    return geo_coords
+    
+    for listing in decoded['listings']:
+        # Check if the name of the listing matches the one searched
+        print "Looking for '" + name + "', found '" + listing['name']
+        match_score = fuzz.partial_ratio(listing['name'], name)
+        print "Match score: " + str(match_score)
+        if match_score > 80:
+            # We feel confident enough that this is the right business
+            # Still have to address this kind of situation:
+            # Looking for 'Blancs d'Arcadie (Les)', found 'Les Blancs D'Arcadie
+            # Match score: 75
+            # Also deal with accents, which throw error
+            # 'ascii' codec can't decode byte 0xc3 in position 33: ordinal not in range(128)
+            # But we need to check that there are coordinates associated with it
+            if listing['geoCode'] != None:
+                # Put longitude and latitude data into a dict matching the format returned by the Google API
+                # (so that either API can be used in run_geocode below)
+                geo_coords = {'lat': listing['geoCode']['latitude'], 'lng': listing['geoCode']['longitude']}
+                # Get out of the for loop and return the results
+                return geo_coords
+    
+    # If nothing was found, we get out of the for loop and return nothing
+    return False
 
 # Run through inputfile and geocode all entries
 def run_geocode(inputfile,outputfile="output.csv"):
@@ -101,7 +123,8 @@ def run_geocode(inputfile,outputfile="output.csv"):
                         else:
                             coord_lat = ""
                             coord_lng = ""
-                    except:
+                    except Exception as e:
+                        print e
                         coord_lat = ""
                         coord_lng = ""
 
