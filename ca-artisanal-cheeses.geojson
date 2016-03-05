@@ -1,0 +1,1871 @@
+     { "type" : "Feature Collection",
+        {"features" : [
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.0146755","-118.4696688"]},
+            "properties" : { "dairy" : "Jerseyland Organics", "cheese" : "Gouda (Jerseyland Organic)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.0146755","-118.4696688"]},
+            "properties" : { "dairy" : "Jerseyland Organics", "cheese" : "Cheddar (Jerseyland Organic)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.0146755","-118.4696688"]},
+            "properties" : { "dairy" : "Jerseyland Organics", "cheese" : "Grana (Jerseyland Organic)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.0146755","-118.4696688"]},
+            "properties" : { "dairy" : "Jerseyland Organics", "cheese" : "Feta (Jerseyland Organic)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.0146755","-118.4696688"]},
+            "properties" : { "dairy" : "Jerseyland Organics", "cheese" : "Udderly Organic Goat Gouda (Jerseyland Organic)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.0146755","-118.4696688"]},
+            "properties" : { "dairy" : "Jerseyland Organics", "cheese" : "Udderly Organic Goat Feta (Jerseyland Organic)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Cracked Pepper Verdelait"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Cumin Verdelait"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Garlic and Chive Verdelait"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Wasabi Verdelait"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Comox Camembert"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["52.268518","-113.814277"]},
+            "properties" : { "dairy" : "Sylvan Star Cheese", "cheese" : "Gouda (Sylvan Star Ltd.)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.118084","-79.401823"]},
+            "properties" : { "dairy" : "Upper Canada Cheese Company", "cheese" : "Niagara Gold"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.118084","-79.401823"]},
+            "properties" : { "dairy" : "Upper Canada Cheese Company", "cheese" : "Comfort Cream"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.2892771","-89.5002814"]},
+            "properties" : { "dairy" : "Thunder Oak Cheese Farm", "cheese" : "Gouda (Thunder Oak)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Blue Velvet"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Misty"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Heavenly"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Moonlight"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Picollo"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Chabichou"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Chevry"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Feta (Carmelis)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Carmel"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Lior"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Lior Special Edition"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Vintage"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Tuscany"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Goatgonzola"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.5333443","-119.5662501"]},
+            "properties" : { "dairy" : "Poplar Grove Cheese", "cheese" : "Okanagan Double Cream Camembert"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.5333443","-119.5662501"]},
+            "properties" : { "dairy" : "Poplar Grove Cheese", "cheese" : "Tiger Blue"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.5333443","-119.5662501"]},
+            "properties" : { "dairy" : "Poplar Grove Cheese", "cheese" : "Naramata Bench Blue"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.5333443","-119.5662501"]},
+            "properties" : { "dairy" : "Poplar Grove Cheese", "cheese" : "Harvest Moon"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.839272","-118.96054"]},
+            "properties" : { "dairy" : "D. Dutchmen Dairy", "cheese" : "Mozzarella (D. Dutchmen Dairy)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.839272","-118.96054"]},
+            "properties" : { "dairy" : "D. Dutchmen Dairy", "cheese" : "Cheddar (D. Dutchmen Dairy)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Cheddar (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Swiss (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Gouda (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Monterey Jack (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "San Pareil"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Caerphilly"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Monterey Jill"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Qualicum Spice"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Little Qualicum Feta"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Raclette (Little Qualicum)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Rathtrevor"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Comox Brie"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Triple Cream Camembert"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Amsterdammer"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Boerenkaas"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "La Scala"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Pacific Pepper Verderlait"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Winterlude Spice Verderlait"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Island Bries"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.687672","-119.342833"]},
+            "properties" : { "dairy" : "Gort's Gouda Cheese Farm", "cheese" : "Extra Aged Gouda (Gort's Gouda)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.687672","-119.342833"]},
+            "properties" : { "dairy" : "Gort's Gouda Cheese Farm", "cheese" : "Maasdammer"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.687672","-119.342833"]},
+            "properties" : { "dairy" : "Gort's Gouda Cheese Farm", "cheese" : "Feta (Gort's Gouda)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.223817","-81.156407"]},
+            "properties" : { "dairy" : "Shepherd Gourmet Dairy", "cheese" : "Ricotta (Shepherd Gourmet)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.223817","-81.156407"]},
+            "properties" : { "dairy" : "Shepherd Gourmet Dairy", "cheese" : "Krinos Sheep Feta (Shepherd Gourmet)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.839272","-118.96054"]},
+            "properties" : { "dairy" : "D. Dutchmen Dairy", "cheese" : "Monterey Jack (D. Dutchmen Dairy)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Hand Rolled Chevre Logs"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "County Quark"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Bedda Fedda"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Ricotta (Fifth Town)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Operetta"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Lost Lake"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Nettles Gone Wild"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Lemon Fetish"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Counting Sheep"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Cape Vessey"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Bonnie & Floyd"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Petal Luna"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Lighthall Tomme"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "I Wish"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Fellowship"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Purple's A Must"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.410089","-63.345635"]},
+            "properties" : { "dairy" : "Glasgow Glen Farm", "cheese" : "Gouda (Cheeselady's)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Cheddar (Celebrity International)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Goat Lindsay Bandaged Cheddar (Celebrity International)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Farmers (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "Albani (L')"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "Chant du Coq (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "François Paradis (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "Maria Chapdelaine (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "Normandises (Les)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "Péribonka (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.2759158","-72.9895758"]},
+            "properties" : { "dairy" : "Fromagerie des Cantons", "cheese" : "Brise des Vignerons (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.2759158","-72.9895758"]},
+            "properties" : { "dairy" : "Fromagerie des Cantons", "cheese" : "Zéphyr (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.3423711","-70.9120597"]},
+            "properties" : { "dairy" : "Fromagerie Gilbert", "cheese" : "Cheddar Beauceron"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.3423711","-70.9120597"]},
+            "properties" : { "dairy" : "Fromagerie Gilbert", "cheese" : "Cheddar léger 6% (Fromagerie Gilbert)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.3423711","-70.9120597"]},
+            "properties" : { "dairy" : "Fromagerie Gilbert", "cheese" : "Cheddar léger 12% (Fromagerie Gilbert)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.3423711","-70.9120597"]},
+            "properties" : { "dairy" : "Fromagerie Gilbert", "cheese" : "Torti-Beauceron"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.094914","-71.303546"]},
+            "properties" : { "dairy" : "Fromagerie La Bourgade", "cheese" : "Cheddar Le Bourgadet doux"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.094914","-71.303546"]},
+            "properties" : { "dairy" : "Fromagerie La Bourgade", "cheese" : "Rivière blanche"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.094914","-71.303546"]},
+            "properties" : { "dairy" : "Fromagerie La Bourgade", "cheese" : "Twist arménien"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.198614","-70.2475626"]},
+            "properties" : { "dairy" : "Fromagerie Port-Joli", "cheese" : "Cheddar (Fromagerie Port-Joli)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Blackburn (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Cabouron (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Cheddar Blackburn (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Mont-Jacob (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Napoléon (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Valida Doux (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Valida Moyen (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3911029","-71.2855507"]},
+            "properties" : { "dairy" : "Fromagerie Blackburn", "cheese" : "Valida Fort (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.571656","-72.1792031"]},
+            "properties" : { "dairy" : "Fromagerie F.X. Pichet", "cheese" : "Camplain"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.571656","-72.1792031"]},
+            "properties" : { "dairy" : "Fromagerie F.X. Pichet", "cheese" : "Réserve La Pérade"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.571656","-72.1792031"]},
+            "properties" : { "dairy" : "Fromagerie F.X. Pichet", "cheese" : "Baluchon"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.81254","-73.041556"]},
+            "properties" : { "dairy" : "Ferme Morin", "cheese" : "Cheddar frais Morin"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.7608523","-71.4080337"]},
+            "properties" : { "dairy" : "Fromagerie P'tit Plaisir", "cheese" : "Cheddar (Fromagerie P'tit Plaisir)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3705802","-70.8862484"]},
+            "properties" : { "dairy" : "Fromagerie Boivin", "cheese" : "Cheddar (Fromagerie Boivin)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3705802","-70.8862484"]},
+            "properties" : { "dairy" : "Fromagerie Boivin", "cheese" : "Petit Saguenéen (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3705802","-70.8862484"]},
+            "properties" : { "dairy" : "Fromagerie Boivin", "cheese" : "Tortillons (Les) (Fromagerie Boivin)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3705802","-70.8862484"]},
+            "properties" : { "dairy" : "Fromagerie Boivin", "cheese" : "Cheddar sans sel (Fromagerie Boivin)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3705802","-70.8862484"]},
+            "properties" : { "dairy" : "Fromagerie Boivin", "cheese" : "Annobli"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.3705802","-70.8862484"]},
+            "properties" : { "dairy" : "Fromagerie Boivin", "cheese" : "Monterey Jack (Fromagerie Boivin)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.380147","-71.747619"]},
+            "properties" : { "dairy" : "Fromagerie L'Autre Versant", "cheese" : "Curé-Hébert (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.380147","-71.747619"]},
+            "properties" : { "dairy" : "Fromagerie L'Autre Versant", "cheese" : "Cru du Canton (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.380147","-71.747619"]},
+            "properties" : { "dairy" : "Fromagerie L'Autre Versant", "cheese" : "Cheddar L'Autre Versant"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.81291","-71.228657"]},
+            "properties" : { "dairy" : "Fromagerie des Grondines", "cheese" : "Grand 2 (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.81291","-71.228657"]},
+            "properties" : { "dairy" : "Fromagerie des Grondines", "cheese" : "Grondines (Les)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.678284","-71.349915"]},
+            "properties" : { "dairy" : "Fromagerie Victoria", "cheese" : "Cheddar frais (Fromagerie Victoria)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.678284","-71.349915"]},
+            "properties" : { "dairy" : "Fromagerie Victoria", "cheese" : "Cheddar médium (Fromagerie Victoria)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.678284","-71.349915"]},
+            "properties" : { "dairy" : "Fromagerie Victoria", "cheese" : "Cheddar fort (Fromagerie Victoria)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.678284","-71.349915"]},
+            "properties" : { "dairy" : "Fromagerie Victoria", "cheese" : "Darac"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.07249","-72.474536"]},
+            "properties" : { "dairy" : "Fromagerie Pampille et Barbichette", "cheese" : "Alpin (L')"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.07249","-72.474536"]},
+            "properties" : { "dairy" : "Fromagerie Pampille et Barbichette", "cheese" : "Boules de neige (Les)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.7009022","-71.8491377"]},
+            "properties" : { "dairy" : "Fromagerie Proulx", "cheese" : "Cheddar St-Georges"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5157473","-73.1662523"]},
+            "properties" : { "dairy" : "Ferme Mes Petits Caprices", "cheese" : "Clé des champs"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5157473","-73.1662523"]},
+            "properties" : { "dairy" : "Ferme Mes Petits Caprices", "cheese" : "Capri' Cieux  (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5157473","-73.1662523"]},
+            "properties" : { "dairy" : "Ferme Mes Petits Caprices", "cheese" : "Chèvratout"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5157473","-73.1662523"]},
+            "properties" : { "dairy" : "Ferme Mes Petits Caprices", "cheese" : "Hilairemontais (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.37135","-71.6046728"]},
+            "properties" : { "dairy" : "Fromagerie Lehman", "cheese" : "Pikauba"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.37135","-71.6046728"]},
+            "properties" : { "dairy" : "Fromagerie Lehman", "cheese" : "Kénogami (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.500573","-70.514666"]},
+            "properties" : { "dairy" : "Maison d'affinage Maurice Dufour (La)", "cheese" : "Deo Gratias (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.500573","-70.514666"]},
+            "properties" : { "dairy" : "Maison d'affinage Maurice Dufour (La)", "cheese" : "Secret de Maurice (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.500573","-70.514666"]},
+            "properties" : { "dairy" : "Maison d'affinage Maurice Dufour (La)", "cheese" : "Tomme D'Elles (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.500573","-70.514666"]},
+            "properties" : { "dairy" : "Maison d'affinage Maurice Dufour (La)", "cheese" : "Ciel de Charlevoix (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.500573","-70.514666"]},
+            "properties" : { "dairy" : "Maison d'affinage Maurice Dufour (La)", "cheese" : "Migneron de Charlevoix (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Cheddar moyen (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Cheddar 1 an (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Cheddar 2 ans (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Doyen (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Réserve spéciale 115e"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Suisse léger (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Suisse (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Cheddar au Porto (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Suisse au lait cru (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.592952","-72.335648"]},
+            "properties" : { "dairy" : "Fromagerie Perron", "cheese" : "Cheddar frais du jour (Fromagerie Perron)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Curé Labelle"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Fée des bois"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Barre du jour"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Chevrier"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Tortillard"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Cheddar nature (le P'tit Train du Nord)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Cheddar aromatisé au Porto (le P'tit Train du Nord)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Wabassee"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Windigo"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Duo du Paradis"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Petit Soleil"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Boules de Chèvre"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Fermier (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Capra (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Caprice (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Barbu (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Crottin (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Freddo (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Petit Poitou (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Petit Normand (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Pizy (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Tome (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Sabot de Blanchette (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.708179","-72.451147"]},
+            "properties" : { "dairy" : "Ferme Des Chutes", "cheese" : "Cheddar (Fromagerie Ferme des Chutes)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.708179","-72.451147"]},
+            "properties" : { "dairy" : "Ferme Des Chutes", "cheese" : "Rapide Arcand (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.708179","-72.451147"]},
+            "properties" : { "dairy" : "Ferme Des Chutes", "cheese" : "Chute à Michel (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.708179","-72.451147"]},
+            "properties" : { "dairy" : "Ferme Des Chutes", "cheese" : "Chute à l'Ours (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.708179","-72.451147"]},
+            "properties" : { "dairy" : "Ferme Des Chutes", "cheese" : "Chute Chaudière (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.708179","-72.451147"]},
+            "properties" : { "dairy" : "Ferme Des Chutes", "cheese" : "St-Félicien Lac St-Jean"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.315657","-73.7421626"]},
+            "properties" : { "dairy" : "Ferme Caron", "cheese" : "Blanchon (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "P'tit Diable"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Saint-Isidore à croûte cendrée"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Pampille"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "P'tite Chevrette"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Saint-Isidore à croûte fleurie"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Chèvre d'Or"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Bouton de Culotte (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Filou"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Métis"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Rose Blanche"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Enchanteur (L')"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Champagnole (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Ste-Maure Chaput"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Prestige"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Rondoudou"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Vacherin Chaput"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8362038","-73.8454729"]},
+            "properties" : { "dairy" : "Fromagiers de la Table Ronde (Les)", "cheese" : "Troubadour (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8362038","-73.8454729"]},
+            "properties" : { "dairy" : "Fromagiers de la Table Ronde (Les)", "cheese" : "Ménestrel (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8362038","-73.8454729"]},
+            "properties" : { "dairy" : "Fromagiers de la Table Ronde (Les)", "cheese" : "Fleuron (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8362038","-73.8454729"]},
+            "properties" : { "dairy" : "Fromagiers de la Table Ronde (Les)", "cheese" : "Fou du Roy (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8362038","-73.8454729"]},
+            "properties" : { "dairy" : "Fromagiers de la Table Ronde (Les)", "cheese" : "Rassembleu (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Edam (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Madgascar Green Peppercorn"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Red Hot Chili Pepper Jack"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Black Truffle"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Mozzarella (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Mozzarella di Bufala"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Bocconcini di Bufala"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["42.825232","-80.303879"]},
+            "properties" : { "dairy" : "Wilton Cheese (Jensen Cheese)", "cheese" : "Jensen Cheese (Wilton Cheese Factory)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5157473","-73.1662523"]},
+            "properties" : { "dairy" : "Ferme Mes Petits Caprices", "cheese" : "Féta (Mes Petits Caprices)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5157473","-73.1662523"]},
+            "properties" : { "dairy" : "Ferme Mes Petits Caprices", "cheese" : "Micherolle"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5157473","-73.1662523"]},
+            "properties" : { "dairy" : "Ferme Mes Petits Caprices", "cheese" : "Bûchette et Pyramide Mes Petits Caprices"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.2759158","-72.9895758"]},
+            "properties" : { "dairy" : "Fromagerie des Cantons", "cheese" : "Sirocco"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Marmite d'or"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Rousillon (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Rose Haus"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.0623508","-80.6941832"]},
+            "properties" : { "dairy" : "Gunn's Hill Artisan Cheese", "cheese" : "Oxford's Harvest"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.0623508","-80.6941832"]},
+            "properties" : { "dairy" : "Gunn's Hill Artisan Cheese", "cheese" : "Handegg"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.0623508","-80.6941832"]},
+            "properties" : { "dairy" : "Gunn's Hill Artisan Cheese", "cheese" : "Five Brothers"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Goat Cups (Celebrity International)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Goat Feta (Celebrity International)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Goat Mozzarella (Celebrity Interantional)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Goat Cheese (Celebrity International)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Marmotte (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Sacrebleu"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Ratoureux"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Placoteux"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Montérégie"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Chevreau (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.347047","-73.693675"]},
+            "properties" : { "dairy" : "Fromages Chaput", "cheese" : "Bûcheron (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.9008105","-70.8065196"]},
+            "properties" : { "dairy" : "Fromagerie du Terroir de Bellechasse (La)", "cheese" : "Fleur Saint-Michel"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.9008105","-70.8065196"]},
+            "properties" : { "dairy" : "Fromagerie du Terroir de Bellechasse (La)", "cheese" : "Honfleur"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.9008105","-70.8065196"]},
+            "properties" : { "dairy" : "Fromagerie du Terroir de Bellechasse (La)", "cheese" : "P'tit Bronzé"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.9008105","-70.8065196"]},
+            "properties" : { "dairy" : "Fromagerie du Terroir de Bellechasse (La)", "cheese" : "St-Charles"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.9008105","-70.8065196"]},
+            "properties" : { "dairy" : "Fromagerie du Terroir de Bellechasse (La)", "cheese" : "St-Valier (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.571656","-72.1792031"]},
+            "properties" : { "dairy" : "Fromagerie F.X. Pichet", "cheese" : "Roy Léo"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.571656","-72.1792031"]},
+            "properties" : { "dairy" : "Fromagerie F.X. Pichet", "cheese" : "Ste-Anne"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "Normandinoise (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.8163892","-72.5058765"]},
+            "properties" : { "dairy" : "Fromagerie La Normandinoise", "cheese" : "Roméo (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Brie Mont-Laurier"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Voyageur (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.658904","-74.959082"]},
+            "properties" : { "dairy" : "Fromagerie Montebello", "cheese" : "Manchebello"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.658904","-74.959082"]},
+            "properties" : { "dairy" : "Fromagerie Montebello", "cheese" : "Rébellion 1837"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.658904","-74.959082"]},
+            "properties" : { "dairy" : "Fromagerie Montebello", "cheese" : "Fromage (Montebello)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.658904","-74.959082"]},
+            "properties" : { "dairy" : "Fromagerie Montebello", "cheese" : "Tête à Papineau"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Golden Ears Brie"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Velvet Blue"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Golden Ears Emmental"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Golden Ears Gouda"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Golden Ears Havarti"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Neufchatel"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Golden Ears Cheddar"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.235024","-122.605885"]},
+            "properties" : { "dairy" : "Golden Ears Cheesecrafters", "cheese" : "Jersey Blue"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Big White"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.77697","-119.575442"]},
+            "properties" : { "dairy" : "Carmelis Goat Cheese", "cheese" : "Goat Gruyere"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.592814","-96.889196"]},
+            "properties" : { "dairy" : "Bothwell Cheese", "cheese" : "Muenster (Bothwell)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Boerenkaas"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Courtenay Cheddar"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Fior di Latte (Natural Pastures Cheese Company)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.3583546","-80.6460171"]},
+            "properties" : { "dairy" : "Mountainoak Cheese Ltd", "cheese" : "Gouda (Mountainoak Cheese Ltd.)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Morning Moon"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Wishing Tree"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Goat Cheddar (Fifth Town Artisan Cheese)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.05287","-76.9025529"]},
+            "properties" : { "dairy" : "Fifth Town Artisan Cheese Company", "cheese" : "Quinte Crest"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.118084","-79.401823"]},
+            "properties" : { "dairy" : "Upper Canada Cheese Company", "cheese" : "Guernsey Girl"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Aged Farmhouse"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.118084","-79.401823"]},
+            "properties" : { "dairy" : "Upper Canada Cheese Company", "cheese" : "Nosey Goat Nanny Noir"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.118084","-79.401823"]},
+            "properties" : { "dairy" : "Upper Canada Cheese Company", "cheese" : "Nosey Goat Camelot"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.81291","-71.228657"]},
+            "properties" : { "dairy" : "Fromagerie des Grondines", "cheese" : "Mascaret"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.81291","-71.228657"]},
+            "properties" : { "dairy" : "Fromagerie des Grondines", "cheese" : "Tomme de Lachèvrotière"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.81291","-71.228657"]},
+            "properties" : { "dairy" : "Fromagerie des Grondines", "cheese" : "Tomme des Galets"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Grand Manitou (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Funambule (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Caillé (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Apéro (L')"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.8561386","-73.5843332"]},
+            "properties" : { "dairy" : "Fromagerie La Suisse Normande", "cheese" : "Biqueron de Lanaudière (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.380147","-71.747619"]},
+            "properties" : { "dairy" : "Fromagerie L'Autre Versant", "cheese" : "Tremblay (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.5509883","-75.4933179"]},
+            "properties" : { "dairy" : "Fromagerie Le P'tit Train du Nord", "cheese" : "Brie Haute Voltige (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.37135","-71.6046728"]},
+            "properties" : { "dairy" : "Fromagerie Lehman", "cheese" : "Valbert"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Vailloche (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Monsieur Émile"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Pyramide (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Tuyau de Poêle (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Charbonnier (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Chabin (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Écu (L')"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Bastringue (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Pitoune (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Charrue (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Beurasse (La)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Garnottes (Les)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Feta (La) Fromagerie Ruban Bleu"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.318296","-73.760297"]},
+            "properties" : { "dairy" : "Fromagerie Ruban Bleu", "cheese" : "Choco-chèvre"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Arrowsmith"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Morning Strar"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Fromage Frais (Little Qualicum Cheeseworks)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Olde Farmer Cheese (Little Qualicum Cheese)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Bleu Claire"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.500573","-70.514666"]},
+            "properties" : { "dairy" : "Maison d'affinage Maurice Dufour (La)", "cheese" : "Tomme de Brebis de Charlevoix"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.500573","-70.514666"]},
+            "properties" : { "dairy" : "Maison d'affinage Maurice Dufour (La)", "cheese" : "Bleu de Brebis de Charlevoix (Le)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.6870057","-125.0051775"]},
+            "properties" : { "dairy" : "Natural Pastures Cheese Company", "cheese" : "Parmadammer"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.223817","-81.156407"]},
+            "properties" : { "dairy" : "Shepherd Gourmet Dairy", "cheese" : "Krinos Goat Feta (Sheperd Gourmet Dairy)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.223817","-81.156407"]},
+            "properties" : { "dairy" : "Shepherd Gourmet Dairy", "cheese" : "Krinos Feta (Shepherd Gourmet Dairy)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["52.268518","-113.814277"]},
+            "properties" : { "dairy" : "Sylvan Star Cheese", "cheese" : "Edam (Sylvan Star Cheese Ltd)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["52.268518","-113.814277"]},
+            "properties" : { "dairy" : "Sylvan Star Cheese", "cheese" : "Gruyere (Sylvan Star Cheese Ltd)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.8307654","-80.5165154"]},
+            "properties" : { "dairy" : "River's Edge Goat Dairy", "cheese" : "Sheep Feta"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.8307654","-80.5165154"]},
+            "properties" : { "dairy" : "River's Edge Goat Dairy", "cheese" : "Chèvre"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.247427","-72.496768"]},
+            "properties" : { "dairy" : "Fromagerie Nouvelle France", "cheese" : "Fréchette"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.247427","-72.496768"]},
+            "properties" : { "dairy" : "Fromagerie Nouvelle France", "cheese" : "Zacharie Cloutier"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Tania Toscana (Celebrety International)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.370866","-78.7313288"]},
+            "properties" : { "dairy" : "Mariposa Dairy", "cheese" : "Kawartha Lakes Aged Chevre (Celebrity International)"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Oo La La Hot Jill"}
+            },
+                 { "type" : "Feature",
+            "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.329168","-124.3657267"]},
+            "properties" : { "dairy" : "Little Qualicum Cheeseworks", "cheese" : "Tipsy Jill"}
+            },
+                 ]
+    }
+        
