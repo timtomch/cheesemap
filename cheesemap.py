@@ -93,49 +93,64 @@ def run_geocode(inputfile,outputfile="output.csv"):
         with open(outputfile, 'w') as csvoutput:
             writer = csv.writer(csvoutput, lineterminator='\n')
             reader = csv.reader(csvinput)
-
+            #all will contain the output file
             all = []
+            #Create header row from the input file
             row = next(reader)
-            row.append('Lat')
-            row.append('Lng')
+            
+            #If there's no Lat/Lon columns in the input file, append them
+            if 'Lat' not in row:
+                row.append('Lat')
+                row.append('Lng')
+                existinglatlng = False
+            else:
+                existinglatlng = True
+            #Add header row to the output variable
             all.append(row)
             previousname = ""
-
+            
             for row in reader:
-            
-                #Check if English name (4th row) is set, if not use French name (5th row)
-                dairyname = row[3]
-                if not dairyname:
-                    dairyname = row[4]
-            
-                province = row[5]
+                #Check if the Lat/Lon pair is already filled. If so, skip row.
+                #This allows the same file to be run multiple times
                 
-                # Run the geocoder only once per dairy, to minimize API calls
-                # If dairy name is the same as the previous one, reuse the coordinates    
-                if previousname != dairyname:
-                    previousname = dairyname
-                    try:
-                        coord_dict = geocode_yellow(dairyname,province)
-                        #print coord_dict
-                        if coord_dict:
-                            coord_lat = coord_dict['lat']
-                            coord_lng = coord_dict['lng']
-                        else:
+                if not(existinglatlng and len(row[30])>0):
+            
+                    #Check if English name (4th row) is set, if not use French name (5th row)
+                    dairyname = row[3]
+                    if not dairyname:
+                        dairyname = row[4]
+            
+                    province = row[5]
+                
+                    # Run the geocoder only once per dairy, to minimize API calls
+                    # If dairy name is the same as the previous one, reuse the coordinates    
+                    if previousname != dairyname:
+                        previousname = dairyname
+                        try:
+                            coord_dict = geocode_yellow(dairyname,province)
+                            #print coord_dict
+                            if coord_dict:
+                                coord_lat = coord_dict['lat']
+                                coord_lng = coord_dict['lng']
+                            else:
+                                coord_lat = ""
+                                coord_lng = ""
+                        except Exception as e:
+                            print e
                             coord_lat = ""
                             coord_lng = ""
-                    except Exception as e:
-                        print e
-                        coord_lat = ""
-                        coord_lng = ""
-
-                row.append(coord_lat)
-                row.append(coord_lng)
+                            
+                    if existinglatlng:
+                        row[30] = coord_lat
+                        row[31] = coord_lng
+                    else:
+                        row.append(coord_lat)
+                        row.append(coord_lng)
             
-                print dairyname
-                print coord_lat, coord_lng
+                    print dairyname
+                    print coord_lat, coord_lng
             
-                all.append(row)
-
+                    all.append(row)
             writer.writerows(all)
       
 
