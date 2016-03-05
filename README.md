@@ -17,6 +17,9 @@ The result is another CSV file that contains extra columns for latitude and long
 300 queries per day, the same CSV file can be re-run through the script. Only rows where the lat and lon pair is missing will then
 be queried. This allows the list to be gelolocated in batches.
 
+      An earlier version of the script used the Google Places API instead, but this was found to be even less reliable.
+      Note that an API key needs to be obtained from the YellowAPI service for the script to work.
+
 The resulting CSV file is then run through [csv2json.py](https://github.com/timtomch/cheesemap/blob/master/csv2json.py) to be
 turned into a geoJSON file, to be mapped by GitHub's built-in geoJSON engine.
 
@@ -30,3 +33,6 @@ especially with French names. So more entries fail to be mapped because of this.
 trust the variable names.
 1. It would be nice not having to filter the input CSV file manually.
 1. It would also be nice to embed this map in an actual website and start playing around with leaflet.js so that it looks nicer.
+
+## Resources
+* We found [this geoJSON validator tool](http://geojsonlint.com/) useful for debugging. 
